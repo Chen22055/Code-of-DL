@@ -17,9 +17,10 @@
 - Recurrent Nueral Network
 - LSTM
 
-**A自学内容**
+**自学内容**
 - MPS/MPO
 - jax
 
 **Other Sources**
+
 https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial6/Transformers_and_MHAttention.html
